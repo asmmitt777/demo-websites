@@ -36,7 +36,7 @@ public class BrokenHyperlinks {
      System.out.println(url + " is a VALID link");
     }
    } catch (Exception e) {
-    e.printStackTrace();
+    e.printStackTrace(); 
    }
   }
  }
